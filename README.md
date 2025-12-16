@@ -1,5 +1,9 @@
-# sejong
-2024소융대 해커톤 
+###  2024소융대 SW·AI 융합 해커톤 
+
+장려상 수상 / FE 작업 / 2024 1226-1227
+
+HTML/CSS, JavaScript(Vue.js)
+
 
 ```
 sejong
